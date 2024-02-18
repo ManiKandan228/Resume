@@ -24,7 +24,10 @@ body{
 	height: 100%;
 	float: left;
 }
-
+.right
+{
+    width: 530px; float: left;
+}
 .box-1
 {
     font-family: 'Cormorant Garamond';
@@ -37,7 +40,12 @@ body{
     font-size: 15px;
     padding: 10px 0px; 
 }
-
+.p3
+{
+    font-family: 'Namdhinggo';
+    font-size: 18px;
+    padding: 10px 0px; 
+}
 .icons1{
 	font-size: 20px!important;
 	padding-right: 10px!important;
@@ -50,7 +58,10 @@ body{
 	text-align: center;
 	letter-spacing: 3px;
 }
-
+.box-2
+{
+    padding: 0px 50px; margin-top:0px;
+}
 .p2{
     font-family: 'Namdhinggo';
     font-size: 18px;
